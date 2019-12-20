@@ -12,5 +12,7 @@ heroku git:remote -a hellomvcheroku
 heroku buildpacks:set https://github.com/jincod/dotnetcore-buildpack#v3.1
 git push heroku master
 
-最後可以打開 APP 的網址 https://hellomvcheroku.herokuapp.com/，就可以看到網站了
+最後打開網址 
+https://hellomvcheroku.herokuapp.com/
+就可以看到網站了
 
